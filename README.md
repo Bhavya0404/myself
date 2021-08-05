@@ -1,1 +1,3 @@
 # myself
+
+A personal blog
